@@ -1,0 +1,17 @@
+.container {
+    width: 50%;
+    margin: auto;
+}
+
+h1 {
+    margin-bottom: 5%;
+}
+.first-p::first-letter {
+    initial-letter: 2 2;
+    text-shadow: 0.1rem 0.1rem #17f31b;
+    margin-right: .5rem;
+}
+body {
+    background: #eadbcb;
+}
+
